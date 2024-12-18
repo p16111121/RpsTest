@@ -2,7 +2,7 @@
 import random
 import itertools
 beat = {'R': 'P', 'P': 'S', 'S': 'R'} #規則
-
+# This function is based on code from http://www.rpscontest.com/entry/5724402004000768
 def player(prev_play, opponent_history=[]):
     opponent_history.append(prev_play)
     global history,output,models
