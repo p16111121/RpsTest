@@ -3,4 +3,4 @@
 This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
 
 ## Credits
-- Part of this code is based on [SOURCE] (https://example.com/tutorial).
+- Part of this code is based on [SOURCE] ([https://example.com/tutorial](http://www.rpscontest.com/entry/5724402004000768)).
